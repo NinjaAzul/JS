@@ -1,7 +1,7 @@
-# Learning JS e TS
+# Learning JS 
 
 
- # ✅ Learning JS e T
+ # ✅ Learning JS 
  
   
 
@@ -20,9 +20,9 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Sqlite](https://www.sqlite.org/index.html)
+
 - [Node.js](https://nodejs.org/en/)
-- [Insomnia](https://insomnia.rest/products/insomnia)
+
 
 
 ### :memo: Licença
