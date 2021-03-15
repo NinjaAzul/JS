@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Working to Strings in JS</title>
+  </head>
+  <body>
+    <script>
+      const nome = prompt("Digite seu nome completo:");
+      const lengthName = nome.length - 1;
+      document.body.innerHTML += `Seu nome é: ${nome}<br />`;
+      document.body.innerHTML += `Seu nome tem ${nome.length}  letras <br />`;
+      document.body.innerHTML += `A segunda letra do seu nome é: ${nome[1]}  ou ${nome[1].toUpperCase()}<br />`;
+      document.body.innerHTML += `Qual o primeiro índice da letra LETRA no seu nome? ${nome.indexOf(nome[0])} <br />`;
+      document.body.innerHTML += `Qual o último índice da letra LETRA no seu nome?  ${nome.indexOf(nome[lengthName])}<br />`;
+      document.body.innerHTML += `As últimas 3 letras do seu nome são:  ${nome.slice( -3)}<br />`;
+      document.body.innerHTML += `As Letras do seu nome são:  ${nome.split("")}<br />`;
+      document.body.innerHTML += `As palavras do seu nome são:  ${nome.split(' ')}<br />`;
+      document.body.innerHTML += `Seu nome com letras maiúsculas: ${nome.toLocaleUpperCase()}<br />`;
+      document.body.innerHTML += `Seu nome com letras minúsculas: ${nome.toLowerCase()}<br />`;
+      //document.body.innerHTML += `As letras do seu nome são: ${nome.replace(nome.match(/[a-z]/g))}<br />`;
+      document.body.innerHTML += `Seu mestre na terra é o: ${nome.replace(nome , "Erick")}<br />`;
+    </script>
+  </body>
+</html> 
