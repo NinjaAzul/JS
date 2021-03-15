@@ -1,7 +1,18 @@
 //Working With Objects
 
-const pessoal = {
-  nome: "Erick",
-  sobrenome: "Freitas",
-  idade: 23,
-};
+
+function create(nome, sobrenome, idade) {
+  return {
+    nome,
+    sobrenome,
+    idade,
+  };
+}
+
+const pessoa1 = create("Erick", "Freitas ", 23);
+
+const pessoa2 = create("Erick", "Freitas ", 23);
+
+const pessoa3 = create("Erick", "Freitas ", 23);
+
+console.log(pessoa1.idade);
