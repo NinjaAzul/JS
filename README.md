@@ -14,6 +14,12 @@
 - [x] Working With Function!
 - [x] Working With Objects!
 
+# ✅ Projects
+
+- [x] ArrayAndObjects
+
+
+
 # ✅ Tecnologias utilizadas
 
 ### 🛠 Tecnologias
