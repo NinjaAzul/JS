@@ -19,6 +19,7 @@
 ### 📚 Project ArrayAndObjects
 
 - [x] ArrayAndObjects
+- [x] Same color as the dracula theme 
 
 <h1 align="center">
   <img src=assets/ArrayAndObjects.png />
