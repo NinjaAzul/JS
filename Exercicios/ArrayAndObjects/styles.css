@@ -1,0 +1,101 @@
+body {
+  background-color: #a48ac9;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid  ;
+  border-radius: 4px;
+  border-color:#a48ac9 ;
+  box-sizing: border-box;
+  color: #565656;
+}
+
+button[type="submit"] {
+  width: 100%;
+  background-color: #4caf50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+input[type="text"]:focus  {
+  outline: none !important;
+    border-color: #719ECE;
+    box-shadow: 0 0 10px #719ECE;
+}
+
+div [type="constainer"] {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+label  {
+  color: #fff;
+  font-weight: bold;
+  margin: 10px;
+}
+
+p {
+  color: #d863bb;
+  font-weight: bold;
+  margin: 5px;
+} 
+
+.peso{
+  color: #bd93f9;
+  font-weight: bold;
+  margin: 5px;
+} 
+ .altura{
+  color: #ededed;
+  font-weight: bold;
+  margin: 5px;
+} 
+
+.dracula {
+  border-radius: 5px;
+  background-color: #282a36;
+  padding: 20px;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center
+}
+
+div .resultado {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center
+}
+
+.dracula:after {
+  display: flex;
+  content: " Created By Ericl ❤️ ";
+  margin: 9px;
+  color:#fff;
+  flex: 999 999 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #878787;
+ }
