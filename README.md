@@ -16,7 +16,7 @@
 
 # ✅ Projects
 
-### ⛑️ Project ArrayAndObjects
+### 📚 Project ArrayAndObjects
 
 - [x] ArrayAndObjects
 
