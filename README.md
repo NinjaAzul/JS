@@ -21,7 +21,7 @@
 - [x] ArrayAndObjects
 
 <h1 align="center">
-  <img src=Api/public/AppNpsDemo.gif />
+  <img src=assets/ArrayAndObjects.png />
 </h1>
 
 
