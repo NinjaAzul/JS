@@ -25,7 +25,12 @@
   <img src=assets/ArrayAndObjects.png />
 </h1>
 
+### 📚 Project IMC
 
+- [x] IMC
+<h1 align="center">
+  <img src=assets/IMC.png />
+</h1>
 
 # ✅ Tecnologias utilizadas
 
