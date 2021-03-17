@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Modelo</title>
+    <link rel="stylesheet" href="./css/style.css" />
+  </head>
+
+  <body>
+    <section class="container">
+      <h1 class="tabela">Tabela IMC</h1>
+
+      <div class="imc">
+        <div class="dados">
+          <p><strong>IMC</strong></p>
+          <p>Menos do que 18,5</p>
+          <p>Entre 18,5 e 24,9</p>
+          <p>Entre 25 e 29,9</p>
+          <p>Entre 30 e 34,9</p>
+          <p>35 e 39,9</p>
+          <p>Mais do que 40</p>
+        </div>
+
+        <div class="resultado">
+          <p><strong>Resultado</strong></p>
+          <p>Abaixo do peso</p>
+          <p>Peso normal</p>
+          <p>Sobrepeso</p>
+          <p>Obesidade grau 1</p>
+          <p>Obesidade grau 2</p>
+          <p>Obesidade grau 3</p>
+        </div>
+      </div>
+
+      <h1>Calcule seu IMC</h1>
+      <p></p>
+
+      <form action="/" class="form">
+        <label for="input-teste-1">Peso</label>
+        <input type="text" id="input-test-1" class="peso" placeholder="Digite seu peso..." />
+
+        <label for="input-teste-2">Altura</label>
+        <input
+          class="altura"
+          type="text"
+          id="input-test-2"
+          placeholder="Digite sua altura..."
+        />
+
+        <button>Enviar</button>
+      </form>
+      <div class="dracula">
+        <div class="result">
+         
+        </div>
+      </div>
+    
+    </section>
+
+    <script src="./js/index.js"></script>
+  </body>
+</html>
