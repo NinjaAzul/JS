@@ -19,6 +19,7 @@
 ### 📚 Project ArrayAndObjects
 
 - [x] ArrayAndObjects
+- [x] Same color as the dracula theme 
 
 <h1 align="center">
   <img src=assets/ArrayAndObjects.png />
@@ -34,6 +35,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 - [Node.js](https://nodejs.org/en/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://www.w3schools.com/css/css_intro.asp)
 
          
 
