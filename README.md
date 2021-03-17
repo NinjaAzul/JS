@@ -34,6 +34,14 @@
   <img src=assets/IMC.png />
 </h1>
 
+### 📚 Project DateArraySwitch
+
+- [x] Date(Hours())
+
+<h1 align="center">
+  <img src=assets/ArrayDateSwitch.gif />
+</h1>
+
 # ✅ Tecnologias utilizadas
 
 ### 🛠 Tecnologias
