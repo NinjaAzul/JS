@@ -36,7 +36,7 @@ function meuEscopo() {
       "Obesidade grau 2",
       "Obesidade grau 3",
     ];
-    //if diferenciado do JS
+    //if diferenciado do JS "if (imc >= 39.9) return nivel[5];"
     if (imc >= 39.9) {
       return nivel[5];
      }

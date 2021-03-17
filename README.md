@@ -13,6 +13,8 @@
 - [x] Working With Arrays JS!
 - [x] Working With Function!
 - [x] Working With Objects!
+- [x] Working With Object Date!
+- [x] Working With Swich Case!
 
 # ✅ Projects
 
