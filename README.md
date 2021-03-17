@@ -1,5 +1,5 @@
 # Learning JS 
-  Treinando meus conhecimentos com Javascript 
+  
 
  # ✅ Learning JS 
  
