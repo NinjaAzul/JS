@@ -19,6 +19,7 @@
 - [x] Working With For!
 - [x] Working With For Of!
 - [x] Working With For In!
+- [x] Working With NodeList!
 
 # ✅ Projects
 
@@ -44,6 +45,14 @@
 
 <h1 align="center">
   <img src=assets/ArrayDateSwitch.gif />
+</h1>
+
+### 📚 Project NodeList
+
+- [x] Alterar CSS de cada elemento de uma DIV.
+
+<h1 align="center">
+  <img src=assets/NodeList.png />
 </h1>
 
 # ✅ Tecnologias utilizadas
