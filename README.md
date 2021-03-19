@@ -16,6 +16,9 @@
 - [x] Working With Object Date!
 - [x] Working With Swich Case!
 - [x] Working With { Desestruturação } = Javascript!
+- [x] Working With For!
+- [x] Working With For Of!
+- [x] Working With For In!
 
 # ✅ Projects
 
