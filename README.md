@@ -20,7 +20,11 @@
 - [x] Working With For Of!
 - [x] Working With For In!
 - [x] Working With NodeList!
-
+- [x] Working With While and Do While!
+- [x] Working With Break and Continue!
+- [x] Working With Try Cath!
+- [x] Working With SetInterval and setTimeout!
+ 
 # ✅ Projects
 
 ### 📚 Project ArrayAndObjects
