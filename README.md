@@ -61,10 +61,13 @@
 
 ### 📚 Project Timer
 
-- [x] Timer With
+- [x] Timer With SetInterval!
+- [x] start timer!
+- [x] pause timer!
+- [x] zera timer!
 
 <h1 align="center">
-  <img src=assets/NodeList.png />
+  <img src=assets/ProjectTimer.gif />
 </h1>
 
 # ✅ Tecnologias utilizadas
