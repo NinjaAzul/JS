@@ -70,6 +70,16 @@
   <img src=assets/ProjectTimer.gif />
 </h1>
 
+
+### 📚 Project ToDos
+
+- [x] Lista de Tarefas
+
+
+<h1 align="center">
+  <img src=assets/ProjectToDos.gif />
+</h1>
+
 # ✅ Tecnologias utilizadas
 
 ### 🛠 Tecnologias
