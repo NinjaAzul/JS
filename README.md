@@ -80,6 +80,15 @@
   <img src=assets/ProjectToDos.gif />
 </h1>
 
+### 📚 Project Calculator
+
+- [x] Working With FactoryFunctions
+
+
+<h1 align="center">
+  <img src=assets/ProjectCalculator.gif />
+</h1>
+
 # ✅ Tecnologias utilizadas
 
 ### 🛠 Tecnologias
