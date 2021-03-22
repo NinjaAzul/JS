@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+:root {
+  --primary-color: rgba(56, 58, 89, 1);
+  --primary-color-darker: rgba(56, 58, 89, 0.9);
+  --color-black-dracula: rgba(40, 42, 54);
+  --color-pink-dracula: rgb(216, 99, 187);
+  --color-pele-dracula: rgb(237, 237, 237);
+  --color-title-dracula: rgb(189, 147, 249);
+  --color-banco-dracula: rgb(242, 242, 242);
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--primary-color);
+  font-family: "Open sans", sans-serif;
+  font-size: 1.3em;
+  line-height: 1.5em;
+}
+
+h1 {
+  text-align: center;
+  color: var(--color-title-dracula);
+}
+
+p {
+  color: var(--color-pink-dracula);
+}
+
+label {
+  color: var(--color-pele-dracula);
+}
+
+input {
+  color: var(--color-black-dracula);
+}
+
+::placeholder {
+  color: var(--color-title-dracula);
+}
+
+
+
+form input,
+form label,
+form button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+form input {
+  font-size: 24px;
+  height: 50px;
+  padding: 0 20px;
+}
+
+form input:focus {
+  outline: 1px solid var(--primary-color);
+}
+
+form button {
+  border: none;
+  background: var(--primary-color);
+  color: var(--color-banco-dracula);
+  font-size: 18px;
+  font-weight: 700;
+  height: 50px;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+form button:hover {
+  background: var(--primary-color-darker);
+}
+
+form:after {
+  display: flex;
+  content: " Created By Ericl ❤️ ";
+  margin: 9px;
+  color: #fff;
+  flex: 999 999 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.container:after {
+  display: flex;
+  content: " Created By Ericl ❤️ ";
+  margin: 25px;
+  color: #fff;
+  flex: 999 999 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+.container {
+  max-width: 500px;
+  margin: 50px auto;
+  background: var(--color-black-dracula);
+  padding: 20px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+
+.calculadora {
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.display {
+  font-size: 2em;
+  width: 100%;
+  text-align: right;
+  margin-bottom: 20px;
+}
+
+.btn {
+  border: none;
+  background: var(--primary-color);
+  color: var(--color-banco-dracula);
+  font-size: 1em;
+  font-weight: bold;
+  height: 50px;
+  width: 100%;
+  cursor: pointer;
+  margin: 1px;
+}
+
+.btn:hover{
+  background-color: rgba(102, 99, 99, 0.535);
+}
