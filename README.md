@@ -24,6 +24,9 @@
 - [x] Working With Break and Continue!
 - [x] Working With Try Cath!
 - [x] Working With SetInterval and setTimeout!
+- [x] Working Constructor Functions And Factory!
+- [x] Working With Filter!
+- [x] Working  With ForEach!
  
 # ✅ Projects
 

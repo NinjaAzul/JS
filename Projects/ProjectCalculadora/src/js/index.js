@@ -1,4 +1,7 @@
+// Working Factory Functions
+
 function createCalculator() {
+
   return {
     display: document.querySelector(".display"),
     btnClear: document.querySelector(".btn-clear"),
